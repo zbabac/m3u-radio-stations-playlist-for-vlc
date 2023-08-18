@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:0,Big1
+http://big1.bigportal.ba:8100/big1
+#EXTINF:0,BigRock
+http://rock.bigportal.ba:8100/rock
+#EXTINF:0,BiG4
+http://domacica.bigportal.ba:8100/domacica
+#EXTINF:0,Naxi Rock Srbija
+http://naxidigital-rock128.streaming.rs:8180
+#EXTINF:0,Naxi 80-e Srbija
+http://naxidigital-80s128.streaming.rs:8040
+#EXTINF:0,886 On-air Austria
+http://radio886.at/streams/radio_88.6/aac
+#EXTINF:0,886 Hard Rock Austria
+http://radio886.at/streams/88.6_Hard_Rock/aac
+#EXTINF:0,886 Classic Rock Austria
+http://radio886.at/streams/88.6_Classic_Rock/aac
+#EXTINF:0,886 New Rock Austria
+http://radio886.at/streams/88.6_New_Rock/aac
+#EXTINF:0,P6 Rock Norway
+https://p6.p4groupaudio.com/P06_AM
+#EXTINF:0,P11 Bandit Norway
+https://p11.p4groupaudio.com/P11_AM
+#EXTINF:0,P8 Pop Norway
+https://p8.p4groupaudio.com/P08_AM
+#EXTINF:0,Radio Rock no Norway
+https://live-bauerno.sharp-stream.com/radiorock_no_aac
+#EXTINF:0,NRK Klassisk Norway
+http://lyd.nrk.no:80/nrk_radio_klassisk_aac_h?_hdr=0
+#EXTINF:0,NRK Jazz Norway
+http://lyd.nrk.no:80/nrk_radio_jazz_aac_h?_hdr=0
+#EXTINF:0,Naxi Classic Srbija
+http://naxidigital-classic128.streaming.rs:8030/listen.pls
+#EXTINF:0,Pakao radio Srpska
+http://stream.pakaoradio.net:8000/live.m3u
+#EXTINF:0,Antenne MV Rock Germany
+https://streams.antennemv.de/rock/aac-64/extern/
+#EXTINF:0,Antenne MV 80s Germany
+https://streams.antennemv.de/80er/aac-64/extern/
+#EXTINF:0,Austrian Rock Radio Austria
+https://stream5.liferadio.at/
+#EXTINF:0,FIP Paris France
+https://direct.fipradio.fr/live/fip-midfi.mp3
+#EXTINF:0,FIP jazz France
+https://direct.fipradio.fr/live/fip-webradio2.mp3
+#EXTINF:0,FIP Rock France
+https://direct.fipradio.fr/live/fip-webradio1.mp3
+#EXTINF:0,FIP Reggae France
+https://direct.fipradio.fr/live/fip-webradio6.mp3
