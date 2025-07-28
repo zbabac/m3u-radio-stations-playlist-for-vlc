@@ -9,6 +9,12 @@ http://domacica.bigportal.ba:8100/domacica
 http://naxidigital-rock128.streaming.rs:8180
 #EXTINF:0,Naxi 80-e Pop-Rock Srbija
 http://naxidigital-80s128.streaming.rs:8040
+#EXTINF:0,Naxi Blues Rock Srbija
+https://naxidigital-blues128.streaming.rs:8312/listen.pls
+#EXTINF:0,Naxi Cafe Pop Srbija
+https://naxidigital-cafe128ssl.streaming.rs:8022
+#EXTINF:0,Naxi 90 Pop Srbija
+https://naxidigital-90s128ssl.streaming.rs:8282
 #EXTINF:0,886 On-air Pop-Rock Austria
 http://radio886.at/streams/radio_88.6/aac
 #EXTINF:0,886 Hard Rock Austria
